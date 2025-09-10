@@ -2,6 +2,8 @@
 
 ## 1.0.0
 
+ Initial release
+
 # streamdown
 
 ## 1.2.0
