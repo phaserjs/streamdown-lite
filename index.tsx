@@ -24,8 +24,6 @@ type HardenReactMarkdownProps = Options & {
     allowedImagePrefixes?: string[];
 };
 
-console.log('-- welcome to gamma streamdown 3 --')
-
 // Handle both ESM and CJS imports
 const hardenReactMarkdown =
     // biome-ignore lint/suspicious/noExplicitAny: "this is needed."
